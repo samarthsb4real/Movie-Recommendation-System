@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a3f6a26-9540-4c7c-9147-706e671fec48" name="Changes" comment="deployment">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/pages/blog/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/pages/contact/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/pages/experience/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/app/pages/projects/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/components/Card.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/components/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/components/blogCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/aurora-background.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/background-beams.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/background-gradient-animation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/card-hover-effect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/link-preview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/tracing-beam.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/ui/typewriter-effect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/src/utils/cn.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;samarthsb4real&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/samarthsb4real/movie-recommendation-system.git&quot;,
+    &quot;accountId&quot;: &quot;b6003b6f-e657-4034-a3db-072245e523a3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jBJt54sqRfVgXNXhaqtqHrhdsa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a3f6a26-9540-4c7c-9147-706e671fec48" name="Changes" comment="" />
+      <created>1720854748332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720854748332</updated>
+      <workItem from="1720854751477" duration="13022000" />
+      <workItem from="1720881614836" duration="308000" />
+      <workItem from="1720881971581" duration="2361000" />
+      <workItem from="1720945797526" duration="870000" />
+      <workItem from="1721283815469" duration="822000" />
+      <workItem from="1722400443557" duration="82000" />
+      <workItem from="1723090147059" duration="368000" />
+      <workItem from="1731267238681" duration="523000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1720867341949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720867341949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="displaying best 6 results">
+      <option name="closed" value="true" />
+      <created>1720868468866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720868468866</updated>
+    </task>
+    <task id="LOCAL-00003" summary="displaying best 6 results">
+      <option name="closed" value="true" />
+      <created>1720868500134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720868500134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="displaying best 6 results">
+      <option name="closed" value="true" />
+      <created>1720870133244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720870133244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="deployment">
+      <option name="closed" value="true" />
+      <created>1720875012550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720875012550</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="displaying best 6 results" />
+    <MESSAGE value="deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="deployment" />
+  </component>
+</project>

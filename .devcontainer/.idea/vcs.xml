@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../c/codes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../dna git/dna-predicition-analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../dna git/dna-sequencing-tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../portfolio" vcs="Git" />
+  </component>
+</project>
